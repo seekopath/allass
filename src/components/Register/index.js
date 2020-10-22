@@ -297,7 +297,7 @@ function SignUp(props) {
                 />
               </Grid>
 			  <Grid item>
-				  <Box mr={8}></Box>
+				  <Box mr={5}></Box>
 			  </Grid>
 
               <Grid item container sm={5} md={5}>
